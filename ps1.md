@@ -1,4 +1,4 @@
-# CivicPulse: GIS-Enabled Municipal Infrastructure Grievance Redressal
+# AWAAJ: GIS-Enabled Municipal Infrastructure Grievance Redressal
 ### SIH 2026 — Working Plan (Revised Draft)
 
 > **Note:** This replaces the earlier "Elite Research Committee" draft. That version had three problems: fabricated/unverifiable statistics attributed to real institutions (CAG, MoHUA, a journal that couldn't be verified), self-scored evaluation numbers, and AI language applied to features that are actually plain database/engineering work. This draft fixes all three while keeping the core idea, which is genuinely solid.
