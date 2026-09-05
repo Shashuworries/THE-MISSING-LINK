@@ -1,6 +1,3 @@
-Yes — here is the **complete single `README.md` code**, combining the original badge section with the added **UrjaSetu** content. You can copy-paste the entire block directly into your `README.md`.
-
-````markdown
 # ⚡ UrjaSetu
 
 <p align="center">
