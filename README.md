@@ -1,8 +1,3 @@
-Yes. I’ll remove **all of those ECC-specific sections** and **all emojis**.
-
-The README will now be clean and focused only on **UrjaSetu**, with no ECC references, no ECC links, and no emoji icons.
-
-````markdown
 # UrjaSetu
 
 <p align="center">
